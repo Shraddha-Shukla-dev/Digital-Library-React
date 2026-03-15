@@ -1,10 +1,10 @@
-import Routes from './Routes.jsx';
+import Route from "../src/Routes/Route"
 
 function App() {
 
   return (
     <>
-      <Routes />
+      <Route />
     </>
   )
 }
